@@ -8,7 +8,9 @@
 </h1>
 
 A simple blog starter with [Next.js](https://nextjs.org/).
+
 Photos by [Unsplash](https://unsplash.com/).
+Contents by [Wikipedia](https://wikipedia.org/).
 
 ## Setup
 
